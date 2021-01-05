@@ -1,0 +1,10 @@
+{
+  "name": "calculates..the..average..of..the..sum..1.2.3.4...98..99..n",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^2.0.6",
+    "readline-sync": "^1.4.10"
+  }
+}
